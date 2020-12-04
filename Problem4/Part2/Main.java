@@ -108,8 +108,6 @@ public class Main {
     public static void main(String[] args) {
         ArrayList<String> list = new ArrayList<String>();
 		ArrayList<String> res = new ArrayList<String>();
-		ArrayList<Passport> pass = new ArrayList<Passport>();
-		Passport p = new Passport();
 		
 		
         try {
